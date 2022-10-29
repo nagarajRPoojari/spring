@@ -1,0 +1,20 @@
+{
+  "employees": [
+    {
+      "firstName": "Seema",
+      "lastName": "Mokashi",
+      "email": "seema@gmail.com",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
